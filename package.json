@@ -1,0 +1,28 @@
+{
+  "name": "react-redux-starter",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "1.1.4",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-logger": "^3.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "A minimalist react-redux starter",
+  "main": "index.js",
+  "repository": "https://github.com/erick-otenyo/react-redux-starter.git",
+  "author": "Erick Otenyo",
+  "license": "MIT"
+}
